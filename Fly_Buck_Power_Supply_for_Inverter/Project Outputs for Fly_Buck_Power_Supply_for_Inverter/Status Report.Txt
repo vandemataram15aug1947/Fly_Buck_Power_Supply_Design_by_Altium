@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Fly_Buck_Power_Supply_for_Inverter.PrjPcb]
+   Generated File[Bill of Materials-Fly_Buck_Power_Supply_for_Inverter.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:39:13 PM On 4/10/2024

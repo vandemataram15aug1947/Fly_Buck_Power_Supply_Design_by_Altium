@@ -1,0 +1,70 @@
+Altium Designer Pick and Place Locations
+D:\NIT Calicut\My NITC M.Tech Project\Altium_Designer\Altium_Designer\Fly_Buck_Power_Supply_for_Inverter\Project Outputs for Fly_Buck_Power_Supply_for_Inverter\Pick Place\Pick Place for Fly_Buck_Power_Supply_for_Inverter.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/04/24
+Time:       21:39
+Revision:   3f3e6d0ba911a8b375e80400ed5d9b6dfaaee522
+Variant:    No variations
+Units used: mil
+
+Designator Comment             Layer    Footprint               Center-X(mil) Center-Y(mil) Rotation Description                                                                                   
+ZD4        MMSZ5245B-E3-08     TopLayer VISH-SOD-123-2_V        639.826       464.916       90       "MMSZ5245 Series 15V ±5% 500 mW SMT Small Signal Zener Diode - SOD-123"                       
+ZD3        MMSZ5245B-E3-08     TopLayer VISH-SOD-123-2_V        2019.748      611.567       90       "MMSZ5245 Series 15V ±5% 500 mW SMT Small Signal Zener Diode - SOD-123"                       
+ZD2        MMSZ5245B-E3-08     TopLayer VISH-SOD-123-2_V        2019.748      1262.158      90       "MMSZ5245 Series 15V ±5% 500 mW SMT Small Signal Zener Diode - SOD-123"                       
+ZD1        MMSZ5245B-E3-08     TopLayer VISH-SOD-123-2_V        2019.748      1917.668      90       "MMSZ5245 Series 15V ±5% 500 mW SMT Small Signal Zener Diode - SOD-123"                       
+T1         750315038           TopLayer PCBComponent_1          1206.598      1156.488      0        ""                                                                                            
+SD1        RB500V-40-TP        TopLayer FP-SOD-323-MFG          345.458       1316.016      180      "Rectifier Diode Schottky 45V 0.1A"                                                           
+SBR4       DFLS1200-7          TopLayer FP-PowerDI123-MFG       502.032       478.202       270      "Rectifier Diode, Schottky, 200V, 1A"                                                         
+SBR3       DFLS1200-7          TopLayer FP-PowerDI123-MFG       1881.952      623.872       270      "Rectifier Diode, Schottky, 200V, 1A"                                                         
+SBR2       DFLS1200-7          TopLayer FP-PowerDI123-MFG       1881.952      1274.460      270      "Rectifier Diode, Schottky, 200V, 1A"                                                         
+SBR1       DFLS1200-7          TopLayer FP-PowerDI123-MFG       1881.952      1929.972      270      "Rectifier Diode, Schottky, 200V, 1A"                                                         
+Rr         ERA3AEB2052V        TopLayer RESC1608X55X30ML20T20   506.875       1316.016      180      "Res Thin Film 0603 20.5K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Pad SMD Automotive T/R"               
+Rfbt       ERJ-3EKF8662V       TopLayer RESC1608X55X30NL15T15   269.669       1394.756      180      ""                                                                                            
+Rfbb       ERA3AEB2052V        TopLayer RESC1608X55X30ML20T20   156.002       1565.001      90       "Res Thin Film 0603 20.5K Ohm 0.1% 0.1W(1/10W) ±25ppm/C Pad SMD Automotive T/R"               
+R7         ERJ-6ENF5110V       TopLayer RESC2013X70X40ML20T20   639.826       243.458       270      "SMD Chip Resistor, 511 Ohm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, Precision"         
+R6         ERJ-6ENF5110V       TopLayer RESC2013X70X40ML20T20   2019.748      392.082       270      "SMD Chip Resistor, 511 Ohm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, Precision"         
+R5         ERJ-6ENF5110V       TopLayer RESC2013X70X40ML20T20   2019.748      1040.700      270      "SMD Chip Resistor, 511 Ohm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, Precision"         
+R4         ERJ-6ENF5110V       TopLayer RESC2013X70X40ML20T20   2019.748      1696.212      270      "SMD Chip Resistor, 511 Ohm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, Precision"         
+R3         RC0603FR-07453RL    TopLayer RESC1608X55X25NL10T15   270.654       1855.384      270      "SMD Chip Resistor, 453 Ohm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpos"    
+R2         CRCW06038K45FKEA    TopLayer RESC1609X50X30LL10T20   400.572       1882.946      0        "SMD Chip Resistor, 8.45K Ohm, ± 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose" 
+R1         RK73H1JTTD1003F     TopLayer RESC1608X55X30ML20T10   357.268       1991.212      270      "Res Thick Film 0603 100K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD Automotive T/R"                
+JWT        691214110003        TopLayer 691214110003            2622.110      494.442       270      "Conn Terminal Block 3 POS 3.5mm Solder ST Thru-Hole 10A Box"                                 
+JVT        691214110003        TopLayer 691214110003            2622.110      1151.921      270      "Conn Terminal Block 3 POS 3.5mm Solder ST Thru-Hole 10A Box"                                 
+JUT        691214110003        TopLayer 691214110003            2622.110      1813.338      270      "Conn Terminal Block 3 POS 3.5mm Solder ST Thru-Hole 10A Box"                                 
+JT         691214110002        TopLayer 691214110002            1077.742      1906.566      270      "Conn Terminal Block 2 POS 3.5mm Solder ST Thru-Hole 10A Box"                                 
+JBT        691214110003        TopLayer 691214110003            1435.041      344.489       270      "Conn Terminal Block 3 POS 3.5mm Solder ST Thru-Hole 10A Box"                                 
+IC1        LM5160DNTT          TopLayer FP-DNT0012B-IPC_B       499.787       1605.147      270      "LM5160 wide input 65V, 2A synchronous buck/Fly-Buck converter 12-WSON -40 to 125"            
+Cr         C1608X7R1H103K080AA TopLayer FP-C1608-080-0_1-MFG    345.457       1221.528      180      "Multilayer Ceramic Capacitors 0.01µF ±10% 50V X7R SMD 0603"                                  
+Cac        C0603X102K5RACTU    TopLayer CAPC1608X87X35NL20T15   477.348       1221.528      0        "Multilayer Ceramic Capacitor, 1000 pF, 50 V, ± 10%, X7R, 0603 [1608 Metric]"                 
+C29        C0603X104K5RACTU    TopLayer FP-C0603-CJ-MFG         1147.700      472.788       270      "CAP CER 0.1µF 50V X7R 0603"                                                                  
+C28        C0603X104K5RACTU    TopLayer FP-C0603-CJ-MFG         1143.766      234.224       270      "CAP CER 0.1µF 50V X7R 0603"                                                                  
+C27        GRM32ER71E226KE15L  TopLayer FP-GRM32E-0_3-0_2-IPC_B 985.180       455.206       270      "Chip Multilayer Ceramic Capacitors for General Purpose, 1210, 22µF, X7R, 15%, 10%, 25V"      
+C26        GRM32ER71E226KE15L  TopLayer FP-GRM32E-0_3-0_2-IPC_B 984.856       253.832       270      "Chip Multilayer Ceramic Capacitors for General Purpose, 1210, 22µF, X7R, 15%, 10%, 25V"      
+C25        GRM32ER71E226KE15L  TopLayer FP-GRM32E-0_3-0_2-IPC_B 793.370       455.046       270      "Chip Multilayer Ceramic Capacitors for General Purpose, 1210, 22µF, X7R, 15%, 10%, 25V"      
+C24        GRM32ER71E226KE15L  TopLayer FP-GRM32E-0_3-0_2-IPC_B 793.986       253.668       270      "Chip Multilayer Ceramic Capacitors for General Purpose, 1210, 22µF, X7R, 15%, 10%, 25V"      
+C23        GRM32ER71H106KA12L  TopLayer FP-GRM32-MFG            502.032       252.316       270      "CAP CER 10µF 50V X7R 1210"                                                                   
+C22        C0603X104K5RACTU    TopLayer FP-C0603-CJ-MFG         2334.708      616.113       270      "CAP CER 0.1µF 50V X7R 0603"                                                                  
+C21        C0603X104K5RACTU    TopLayer FP-C0603-CJ-MFG         2334.708      381.865       270      "CAP CER 0.1µF 50V X7R 0603"                                                                  
+C20        GRM32ER71E226KE15L  TopLayer FP-GRM32E-0_3-0_2-IPC_B 2177.228      602.684       270      "Chip Multilayer Ceramic Capacitors for General Purpose, 1210, 22µF, X7R, 15%, 10%, 25V"      
+C19        GRM32ER71E226KE15L  TopLayer FP-GRM32E-0_3-0_2-IPC_B 2177.228      401.946       270      "Chip Multilayer Ceramic Capacitors for General Purpose, 1210, 22µF, X7R, 15%, 10%, 25V"      
+C18        GRM32ER71H106KA12L  TopLayer FP-GRM32-MFG            1881.952      399.952       270      "CAP CER 10µF 50V X7R 1210"                                                                   
+C17        C0603X104K5RACTU    TopLayer FP-C0603-CJ-MFG         2334.708      1272.371      270      "CAP CER 0.1µF 50V X7R 0603"                                                                  
+C16        C0603X104K5RACTU    TopLayer FP-C0603-CJ-MFG         2334.708      1039.345      270      "CAP CER 0.1µF 50V X7R 0603"                                                                  
+C15        GRM32ER71E226KE15L  TopLayer FP-GRM32E-0_3-0_2-IPC_B 2177.228      1252.290      270      "Chip Multilayer Ceramic Capacitors for General Purpose, 1210, 22µF, X7R, 15%, 10%, 25V"      
+C14        GRM32ER71E226KE15L  TopLayer FP-GRM32E-0_3-0_2-IPC_B 2177.228      1051.552      270      "Chip Multilayer Ceramic Capacitors for General Purpose, 1210, 22µF, X7R, 15%, 10%, 25V"      
+C13        GRM32ER71H106KA12L  TopLayer FP-GRM32-MFG            1881.952      1049.559      270      "CAP CER 10µF 50V X7R 1210"                                                                   
+C12        C0603X104K5RACTU    TopLayer FP-C0603-CJ-MFG         2334.708      1927.885      270      "CAP CER 0.1µF 50V X7R 0603"                                                                  
+C11        C0603X104K5RACTU    TopLayer FP-C0603-CJ-MFG         2334.708      1686.981      270      "CAP CER 0.1µF 50V X7R 0603"                                                                  
+C10        GRM32ER71E226KE15L  TopLayer FP-GRM32E-0_3-0_2-IPC_B 2177.228      1907.802      270      "Chip Multilayer Ceramic Capacitors for General Purpose, 1210, 22µF, X7R, 15%, 10%, 25V"      
+C9         GRM32ER71E226KE15L  TopLayer FP-GRM32E-0_3-0_2-IPC_B 2177.228      1707.064      270      "Chip Multilayer Ceramic Capacitors for General Purpose, 1210, 22µF, X7R, 15%, 10%, 25V"      
+C8         GRM32ER71H106KA12L  TopLayer FP-GRM32-MFG            1881.952      1703.103      270      "CAP CER 10µF 50V X7R 1210"                                                                   
+C7         GRM32ER71E226KE15L  TopLayer FP-GRM32E-0_3-0_2-IPC_B 754.906       2001.054      180      "Chip Multilayer Ceramic Capacitors for General Purpose, 1210, 22µF, X7R, 15%, 10%, 25V"      
+C6         GRM32ER71E226KE15L  TopLayer FP-GRM32E-0_3-0_2-IPC_B 754.906       1827.826      180      "Chip Multilayer Ceramic Capacitors for General Purpose, 1210, 22µF, X7R, 15%, 10%, 25V"      
+C5         C1608X5R1E105K080AC TopLayer FP-C1608-080-0_1-MFG    258.842       1569.579      270      "Multilayer Ceramic Capacitors 1µF ±10% 25V X5R SMD 0603"                                     
+C4         C1608X7R1H103K080AA TopLayer FP-C1608-080-0_1-MFG    526.558       1406.566      0        "Multilayer Ceramic Capacitors 0.01µF ±10% 50V X7R SMD 0603"                                  
+C3         C1608X7R1H103K080AA TopLayer FP-C1608-080-0_1-MFG    286.000       1682.000      180      "Multilayer Ceramic Capacitors 0.01µF ±10% 50V X7R SMD 0603"                                  
+C2         C0603X104K5RACTU    TopLayer FP-C0603-CJ-MFG         546.244       1882.944      0        "CAP CER 0.1µF 50V X7R 0603"                                                                  
+C1         GRM32ER71H106KA12L  TopLayer FP-GRM32-MFG            522.622       2001.054      0        "CAP CER 10µF 50V X7R 1210"                                                                   

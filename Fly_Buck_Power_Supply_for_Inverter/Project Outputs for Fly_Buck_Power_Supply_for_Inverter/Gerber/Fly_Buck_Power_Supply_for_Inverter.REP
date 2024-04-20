@@ -1,0 +1,370 @@
+*************************************************************
+FileName = Fly_Buck_Power_Supply_for_Inverter.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Component Center
+      File : Fly_Buck_Power_Supply_for_Inverter.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D14
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : Fly_Buck_Power_Supply_for_Inverter.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D12
+    D14
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : Fly_Buck_Power_Supply_for_Inverter.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D12
+    D14
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : Fly_Buck_Power_Supply_for_Inverter.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Fly_Buck_Power_Supply_for_Inverter.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : Fly_Buck_Power_Supply_for_Inverter.GM3
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Fly_Buck_Power_Supply_for_Inverter.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Fly_Buck_Power_Supply_for_Inverter.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Fly_Buck_Power_Supply_for_Inverter.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Fly_Buck_Power_Supply_for_Inverter.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D23
+    D24
+    D25
+    D26
+    D27
+    D29
+    D30
+    D31
+    D33
+    D34
+    D35
+    D36
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Fly_Buck_Power_Supply_for_Inverter.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Fly_Buck_Power_Supply_for_Inverter.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D45
+    D65
+    D66
+    D67
+    D68
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Fly_Buck_Power_Supply_for_Inverter.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D65
+    D66
+    D67
+    D68
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Fly_Buck_Power_Supply_for_Inverter.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D15
+    D59
+    D60
+    D63
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Fly_Buck_Power_Supply_for_Inverter.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D15
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D45
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Fly_Buck_Power_Supply_for_Inverter.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D13
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Fly_Buck_Power_Supply_for_Inverter.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Fly_Buck_Power_Supply_for_Inverter.GM
+
+
+Used DCodes :
+    D74
+*************************************************************
+
